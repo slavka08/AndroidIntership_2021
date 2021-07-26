@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidIntership_1</string>
+    <string name="ping_to_server">Ping to server: %1$s ms</string>
+    <string name="jitter_to_server">Jitter to server: %1$s ms</string>
+    <string name="milli_seconds_shot">ms</string>
+    <string name="user_ip">User ip: %1$s</string>
+    <string name="server">Server: %1$s</string>
+</resources>
